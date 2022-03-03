@@ -1,0 +1,3 @@
+E:/AndroidStudioProjects/ncnn-android-pose/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+E:/AndroidStudioProjects/ncnn-android-pose/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/ncnnyolox.dir
+E:/AndroidStudioProjects/ncnn-android-pose/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir

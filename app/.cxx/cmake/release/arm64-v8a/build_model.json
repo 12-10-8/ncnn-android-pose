@@ -1,0 +1,74 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\AndroidStudioProjects\\ncnn-android-yolox",
+      "sdkFolder": "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app",
+      "makeFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\.cxx",
+      "cxxFolder": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620",
+      "ndkVersion": "23.1.7779620",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_PLATFORM\u003dandroid-24",
+      "-DANDROID_STL\u003dc++_static",
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "soFolder": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 22,
+  "cxxBuildFolder": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\arm64-v8a",
+  "jsonFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cxx\\release\\arm64-v8a",
+  "objFolder": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a",
+  "buildCommandFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cxx\\release\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cxx\\release\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cxx\\release\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\arm64-v8a\\compile_commands.json"
+}

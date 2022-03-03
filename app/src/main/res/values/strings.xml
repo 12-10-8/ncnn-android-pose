@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SLPNet with yolox</string>
+    <string-array name="model_array">
+        <item>yolox-nano</item>
+    </string-array>
+    <string-array name="model_lite_mspn_array">
+        <item>lite-mspn-50</item>
+    </string-array>
+    <string-array name="cpugpu_array">
+        <item>CPU</item>
+<!--        <item>GPU</item>-->
+    </string-array>
+</resources>

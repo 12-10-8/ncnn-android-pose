@@ -1,0 +1,70 @@
+{
+  "stringTable": {
+    "0": "E:/AndroidStudioProjects/ncnn-android-pose/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi24 --gcc-toolchain=C:/Users/12108/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12108/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dncnnyolox_EXPORTS -isystem E:/AndroidStudioProjects/ncnn-android-pose/app/src/main/jni/ncnn-20211208-android/armeabi-v7a/include/ncnn -isystem E:/AndroidStudioProjects/ncnn-android-pose/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions -std=gnu++11"
+  },
+  "buildFiles": [
+    "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVConfig.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\ncnn-20211208-android\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules-release.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\ncnn-20211208-android\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\ncnn-20211208-android\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ncnnyolox-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" ncnnyolox",
+      "buildType": "debug",
+      "toolchain": "3545402133",
+      "abi": "armeabi-v7a",
+      "artifactName": "ncnnyolox",
+      "files": [
+        {
+          "src": "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\yoloxncnn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\yolox.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\slpn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\ndkcamera.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\src\\main\\jni\\slpn.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "E:\\AndroidStudioProjects\\ncnn-android-pose\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libncnnyolox.so"
+    }
+  },
+  "toolchains": {
+    "3545402133": {
+      "cppCompilerExecutable": "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

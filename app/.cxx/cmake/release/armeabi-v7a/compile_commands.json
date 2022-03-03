@@ -1,0 +1,19 @@
+[
+{
+  "directory": "E:/AndroidStudioProjects/ncnn-android-yolox/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi24 --gcc-toolchain=C:/Users/12108/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12108/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dncnnyolox_EXPORTS -isystem E:/AndroidStudioProjects/ncnn-android-yolox/app/src/main/jni/ncnn-20201218-android-vulkan/armeabi-v7a/include/ncnn -isystem E:/AndroidStudioProjects/ncnn-android-yolox/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -DNDEBUG  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\ncnnyolox.dir\\yoloxncnn.cpp.o -c E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\yoloxncnn.cpp",
+  "file": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\yoloxncnn.cpp"
+},
+
+{
+  "directory": "E:/AndroidStudioProjects/ncnn-android-yolox/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi24 --gcc-toolchain=C:/Users/12108/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12108/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dncnnyolox_EXPORTS -isystem E:/AndroidStudioProjects/ncnn-android-yolox/app/src/main/jni/ncnn-20201218-android-vulkan/armeabi-v7a/include/ncnn -isystem E:/AndroidStudioProjects/ncnn-android-yolox/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -DNDEBUG  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\ncnnyolox.dir\\yolox.cpp.o -c E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\yolox.cpp",
+  "file": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\yolox.cpp"
+},
+
+{
+  "directory": "E:/AndroidStudioProjects/ncnn-android-yolox/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi24 --gcc-toolchain=C:/Users/12108/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12108/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dncnnyolox_EXPORTS -isystem E:/AndroidStudioProjects/ncnn-android-yolox/app/src/main/jni/ncnn-20201218-android-vulkan/armeabi-v7a/include/ncnn -isystem E:/AndroidStudioProjects/ncnn-android-yolox/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -DNDEBUG  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\ncnnyolox.dir\\ndkcamera.cpp.o -c E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ndkcamera.cpp",
+  "file": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ndkcamera.cpp"
+}
+]

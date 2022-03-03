@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVConfig.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20201218-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20201218-android-vulkan\\arm64-v8a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\CMakeLists.txt",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules-release.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20201218-android-vulkan\\arm64-v8a\\lib\\cmake\\glslangTargets-release.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20201218-android-vulkan\\arm64-v8a\\lib\\cmake\\OSDependentTargets.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20201218-android-vulkan\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20201218-android-vulkan\\arm64-v8a\\lib\\cmake\\SPIRVTargets.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20201218-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20201218-android-vulkan\\arm64-v8a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20201218-android-vulkan\\arm64-v8a\\lib\\cmake\\glslangTargets.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20201218-android-vulkan\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20201218-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ncnnyolox-Debug-arm64-v8a": {
+      "artifactName": "ncnnyolox",
+      "buildCommand": "C:\\Users\\12108\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\arm64-v8a\" ncnnyolox",
+      "abi": "arm64-v8a",
+      "output": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libncnnyolox.so"
+    }
+  }
+}
